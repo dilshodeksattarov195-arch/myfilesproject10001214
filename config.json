@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsonnect",
+        "uuid": 379982,
+        "checksum": "4y0tob"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
